@@ -1,0 +1,18 @@
+import org.junit.*;
+import static org.junit.Assert.*;
+
+/**
+ * a tester class that tests the class Tsuro
+ * @author TungHo Lin
+ */
+
+public class TsuroTester {
+  
+  
+  
+  
+  
+  
+  
+  
+}
